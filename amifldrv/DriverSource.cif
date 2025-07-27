@@ -1,0 +1,18 @@
+<component>
+	name = "Linux Driver Source"
+	category = ModulePart
+	LocalRoot = "GdkCoreSourcePkg/PlatformLib/Linux/DriverSource/"
+	RefName = "GdkCoreSourcePkg.PlatformLib.Linux.DriverSource"
+[files]
+"amifldrv.c"	
+"amifldrv.h"	
+"amifldrvdefs.h"	
+"amiiodrv.c"	
+"amimemdrv.c"	
+"amiother.c"	
+"DriverSource.sdl"	
+"Makefile"	
+"Makefile.Shipped"	
+"amismmbufferv1.c"	
+"amismmbufferv2.c"	
+<endComponent>

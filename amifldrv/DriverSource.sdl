@@ -1,0 +1,12 @@
+TOKEN
+	Name  = "Linux_Driver_Source_SUPPORT"
+	Value  = "1"
+	TokenType = Boolean
+	TargetEQU = Yes
+	TargetMAK = Yes
+	Master = Yes
+End
+
+PATH
+	Name  = "LINUX_DRIVER_SOURCE_DIR"
+End
